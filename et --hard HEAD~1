@@ -1,0 +1,17 @@
+[33mcommit 90af34f96ffc0464577dec5e74546c26b7d5d41b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Gastón Florenciano <gaston__florenciano@hotmail.com>
+Date:   Mon Apr 21 14:39:29 2025 -0300
+
+    feat: crear array de 10 elementos con np.arange()clear
+
+[33mcommit 790d49dc7ddf75fed8f826acbcae9207eb7be44e[m
+Author: Gastón Florenciano <gaston__florenciano@hotmail.com>
+Date:   Mon Apr 21 14:39:17 2025 -0300
+
+    feat: crear array de 10 elementos con np.arange()clear
+
+[33mcommit df4ee2d5f8dd08d56c8585c15f56cb070b76b881[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gastón Florenciano <101525341+GastonFlorenciano@users.noreply.github.com>
+Date:   Mon Apr 21 14:18:20 2025 -0300
+
+    Initial commit
